@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/03/07 21:00:37.000.226,=C:\Users\luizv\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/25 14:19:48.000.413,=C:\Users\luizv\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/25 14:20:52.000.944,C:\Users\luizv\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Fortes\U_Principal.dfm</Transaction>
+    <Transaction>2019/03/25 14:20:52.000.944,C:\Users\luizv\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Fortes\U_Principal.pas</Transaction>
+    <Transaction>2019/03/25 14:21:05.000.209,C:\Users\luizv\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Fortes\Fortes.dproj</Transaction>
+    <Transaction>2019/03/25 14:42:39.000.698,=C:\Fortes\Unit1.pas</Transaction>
+    <Transaction>2019/03/25 14:43:36.000.928,C:\Fortes\Unit1.pas=C:\Fortes\U_CadastroEmpregados.pas</Transaction>
+    <Transaction>2019/03/25 14:43:36.000.928,C:\Fortes\Unit1.dfm=C:\Fortes\U_CadastroEmpregados.dfm</Transaction>
+    <Transaction>2019/03/25 15:10:22.000.896,=C:\Fortes\Unit1.pas</Transaction>
+    <Transaction>2019/03/25 15:11:46.000.836,C:\Fortes\Unit1.dfm=C:\Fortes\U_DM.dfm</Transaction>
+    <Transaction>2019/03/25 15:11:46.000.836,C:\Fortes\Unit1.pas=C:\Fortes\U_DM.pas</Transaction>
+    <Transaction>2019/03/26 18:06:18.000.126,=C:\Fortes\Unit1.pas</Transaction>
+    <Transaction>2019/03/26 18:09:35.000.793,C:\Fortes\Unit1.dfm=C:\Fortes\U_RelEmpregadosDependentes.dfm</Transaction>
+    <Transaction>2019/03/26 18:09:35.000.793,C:\Fortes\Unit1.pas=C:\Fortes\U_RelEmpregadosDependentes.pas</Transaction>
+    <Transaction>2019/03/26 20:19:44.000.736,C:\Fortes\U_RelEmpregadosDependentes.dfm=C:\Fortes\U_RelEmpregadosDependentes1.dfm</Transaction>
+    <Transaction>2019/03/26 20:19:44.000.736,C:\Fortes\U_RelEmpregadosDependentes.pas=C:\Fortes\U_RelEmpregadosDependentes1.pas</Transaction>
+    <Transaction>2019/03/26 20:20:33.000.062,C:\Fortes\U_RelEmpregadosDependentes1.dfm=C:\Fortes\U_RelProjetos.dfm</Transaction>
+    <Transaction>2019/03/26 20:20:33.000.062,C:\Fortes\U_RelEmpregadosDependentes1.pas=C:\Fortes\U_RelProjetos.pas</Transaction>
+  </Transactions>
+</BorlandProject>
